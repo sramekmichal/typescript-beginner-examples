@@ -1,8 +1,13 @@
 ### ⭐️ Contents 
+- Basic `tsconfig.json`
+- TypeScript `constant` and `function` example
 - TypeScript `type` definitions
+- `interface` in TypesSript
 - `union` & `type` alias in TypeScript
 - `void`, `any`, `unknown` and `never` in TypeScript
 - TypeScript used with `DOM`
 - `class` in Typescript
-- `interface` and `function` in TypesSript
+- `public`, `private`, `protected`and `readonly` parametres
+- Exmaple of `inheritance` in TypeScript
+- generic data types specified with `<>`
 - `enums` in TypeScript
